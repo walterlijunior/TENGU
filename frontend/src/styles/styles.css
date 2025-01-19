@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+#app {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+#output img {
+    width: 300px;
+    margin: 10px;
+}
